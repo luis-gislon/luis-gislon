@@ -1,4 +1,4 @@
-Sou Luis Carlos Gislon,
+Olá sou Luis Carlos Gislon,
 
 Sou QA, conheço testes Manuais, Automatizados e Performançe.
 
