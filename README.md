@@ -1,5 +1,21 @@
-### Hi there 👋
+Sou Luis Carlos Gislon,
 
+Sou QA, conheço testes Manuais, Automatizados e Performançe.
+
+Conheço C#, C++ e Java.
+
+Estou estundando Flutter.
+
+Visite meu [linkedIn](https://www.linkedin.com/in/gislon).
+
+
+
+
+
+
+<!--
+
+### Hi there 👋
 
 **luis-gislon/luis-gislon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
